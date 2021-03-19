@@ -40,17 +40,22 @@ function About() {
         </h1>
         <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
           <Techstack iconName="devicon-react-original-wordmark" />
+          <Techstack iconName="cib-redux" />
+          <Techstack iconName="cib-next-js" />
           <Techstack iconName="devicon-gatsby-plain-wordmark " />
           <Techstack iconName="devicon-materialui-plain" />
           <Techstack iconName="devicon-vuejs-plain-wordmark" />
+          <Techstack iconName="cib-nuxt-js" />
           <Techstack iconName="devicon-javascript-plain " />
           <Techstack iconName="devicon-typescript-plain " />
+          <Techstack iconName="cib-node-js" />
           <Techstack iconName="devicon-express-original-wordmark" />
-          <Techstack iconName="devicon-react-original-wordmark" />
           <Techstack iconName="devicon-mongodb-plain-wordmark" />
           <Techstack iconName="devicon-git-plain-wordmark" />
           <Techstack iconName="devicon-bootstrap-plain-wordmark" />
           <Techstack iconName="devicon-laravel-plain-wordmark" />
+          <Techstack iconName="cib-cc-stripe" />
+          
           
         </Row>
         <Github />
