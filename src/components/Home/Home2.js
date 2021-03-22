@@ -48,7 +48,7 @@ function Home2() {
         <Row>
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1><br/><br/><br/>
-            <p>oliverli.kowloon@gmial.com</p>
+            <p>oliverli.kowloon@gmail.com</p>
             <p>Kowloon City, Hong Kong</p>
             <ul className="home-about-social-links">
               <li className="social-icons">
