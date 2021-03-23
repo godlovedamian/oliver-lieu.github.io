@@ -7,12 +7,12 @@ import "bootstrap/dist/css/bootstrap.min.css";
 function Github() {
   const colourTheme = {
     background: "transparent",
-    text: "#ffffff",
+    text: "#fff",
     grade4: "#fff",
-    grade3: "#aaa",
-    grade2: "#888",
-    grade1: "#555",
-    grade0: "#222",
+    grade3: "#ccc",
+    grade2: "#999",
+    grade1: "#777",
+    grade0: "#555",
   };
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
