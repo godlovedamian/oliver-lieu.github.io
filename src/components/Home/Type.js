@@ -6,10 +6,11 @@ function Type() {
     <Typewriter
       options={{
         strings: [
-          "Front-end Developer",
+          "Full stack Developer",
           "MERN Stack Developer",
           "React and React frameworks",
           "Vue.js and Vue.js frameworks",
+          "Laravel and CodeIgniter"
         ],
         autoStart: true,
         loop: true,

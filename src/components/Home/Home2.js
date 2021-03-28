@@ -18,7 +18,7 @@ function Home2() {
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
-              <br />I am front-end developer specialized in
+              <br />I am full stack developer specialized in
               <i>
                 <b className="purple"> React and React frameworks. </b>
               </i>
@@ -35,7 +35,7 @@ function Home2() {
               Whenever possible, I also apply my passion for developing products
               with
               <i>
-                <b className="purple"> Angular.js </b>
+                <b className="purple"> Django </b>
               </i>
             </p>
           </Col>
