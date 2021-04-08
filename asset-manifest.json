@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.62a87812.chunk.css",
-    "main.js": "/static/js/main.d8727051.chunk.js",
-    "main.js.map": "/static/js/main.d8727051.chunk.js.map",
+    "main.js": "/static/js/main.365b0468.chunk.js",
+    "main.js.map": "/static/js/main.365b0468.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9d0c2680.js",
     "runtime-main.js.map": "/static/js/runtime-main.9d0c2680.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
@@ -15,7 +15,7 @@
     "static/css/main.62a87812.chunk.css.map": "/static/css/main.62a87812.chunk.css.map",
     "static/js/2.f5fdf05f.chunk.js.LICENSE.txt": "/static/js/2.f5fdf05f.chunk.js.LICENSE.txt",
     "static/media/Debenhams.8f4992e3.PNG": "/static/media/Debenhams.8f4992e3.PNG",
-    "static/media/Oliver Lieu.6877d354.pdf": "/static/media/Oliver Lieu.6877d354.pdf",
+    "static/media/Oliver Lieu.5790de6d.pdf": "/static/media/Oliver Lieu.5790de6d.pdf",
     "static/media/about.aee0f771.png": "/static/media/about.aee0f771.png",
     "static/media/auctions.84a8e187.PNG": "/static/media/auctions.84a8e187.PNG",
     "static/media/avatar.7f806e40.svg": "/static/media/avatar.7f806e40.svg",
@@ -31,6 +31,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.f5fdf05f.chunk.js",
     "static/css/main.62a87812.chunk.css",
-    "static/js/main.d8727051.chunk.js"
+    "static/js/main.365b0468.chunk.js"
   ]
 }
